@@ -1,2 +1,2 @@
 # DJIT
-DJIT but we take it waaaay too far
+DJIT we take it waaaay too far?
